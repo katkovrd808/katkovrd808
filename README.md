@@ -53,9 +53,9 @@ Experienced and result oriented QA engineer with 4 YoE in both of manual and aut
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Contacts
 
 <p align="center">
-    <a href="https://t.me/penolegrus"><img width=5% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
+    <a href="https://t.me/katkovrd"><img width=5% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
     <a href="https://www.linkedin.com/in/romankatkovqa/"><img width=5% title="LinkedIn" src="attachments/logo/linkedin.png"></a>&nbsp;
-    <a href="https://career.habr.com/penolegrus"><img width=15% title="Habr Career" src="attachments/logo/habr-company.svg"></a>
+    <a href="https://career.habr.com/penolegrus"><img width=5% title="Habr Career" src="attachments/logo/habr%201.svg"></a>
 </p>
 
 <br/>
